@@ -1,1 +1,1 @@
-workers python main.py altloud
+workers python main.py ZakvielChannel,altloud,hayzzstream,ramzikgg1
