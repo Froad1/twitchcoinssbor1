@@ -1,3 +1,3 @@
-workers python main.py ZakvielChannel,hayzzstream,everon__,ramzikgg1,lesnikov_,frankey136,Sunrise_XXL,redroses11111
+workers python main.py ZakvielChannel,redroses11111,hayzzstream,everon__,ramzikgg1,lesnikov_,frankey136,Sunrise_XXL
 
 
